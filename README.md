@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Matrix gif](https://cdn.wallpapersafari.com/80/43/WnEHMa.gif)
+![Fibbo](fib.png)

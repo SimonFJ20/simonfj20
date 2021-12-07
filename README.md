@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# I don't know what to write here.
+# I don't know what to put here.
 
 ```hs
 fib :: Number

@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Fibbo](fib.png)
+# I don't know what to write here.

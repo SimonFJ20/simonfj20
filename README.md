@@ -34,8 +34,8 @@ value   ->  object | list | string | number | "null" | "false" | "true"
 ```
 ```ts
 const CHARS = 'plmonkij9buvhyc2gtxfr5zde3sw1aqZX4CASDQ0WEVBN7FGHRTYM6JKLU8IOP';
-const randchar = () => 
+const randchar = (chars: string = CHARS) => 
     chars.charAt(Math.floor(Math.random() * chars.length));
-const randstr = (length: number): string => 
-    length > 0 ? randchar() + randstr(length - 1) : randchar();
+const randstr = (length: number, chars: string = CHARS): string => 
+    length > 0 ? randchar(chars) + randstr(length - 1, chars) : randchar(chars);
 ```

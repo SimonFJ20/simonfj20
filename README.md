@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 # I don't know what to put here.
 
+[My Website](https://simonfj20.site/)
 [Artisan Solutions](https://www.artisansolutions.dk/)
 
 ```hs
